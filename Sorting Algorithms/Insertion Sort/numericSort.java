@@ -25,8 +25,7 @@ public class numericSort{
         return sortedArray;
     }
 
-    public static void main(String[] args) 
-    { 
+    public static void main(String[] args){ 
         int totalNumbers = 0; //The amount of numbers the users would like to insert.
         int usersNumber = 0;  //The number the user wants to insert into numberArray.
         int loopSentinel = 0; //Controlls the while loop on line 35.
