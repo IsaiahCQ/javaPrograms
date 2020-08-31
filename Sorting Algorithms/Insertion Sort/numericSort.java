@@ -1,13 +1,12 @@
 /**
 This program lets the user insert as many numbers as they want into a array, and then sorts the array, in numerical order, as the numbers are inserted.
-Course: 16230 CSC 102 H Computer Science 2
 @author Isaiah Quattlebaum
 @version 1.0, 08/31/20
 */
 import java.util.Arrays; 
 import java.util.Scanner;
 
-public class lab2{
+public class numericSort{
     public static int [] arraySorter(int [] sortedArray, int num){
         //This function is responsible for inserting a integer into an array in ascending order.
         int temporaryStorage = 0; //Temporarily holds a number during the sorting process.
