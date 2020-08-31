@@ -1,6 +1,5 @@
 /**
 This program uses a GUI to prompt the user for 10 grades and stores the grades into a array. The array is then bubble sorted and the average grade is Calculated.
-Course: 16230 CSC 102 H Computer Science 2
 @author Isaiah Quattlebaum
 @version 1.0, 08/29/20
 */
